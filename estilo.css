@@ -1,0 +1,51 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#topo{
+    height: 150px;
+    background-color: transparent;
+}
+#logo{
+    height: 100px;
+    width: 400px;
+    margin: auto;
+    background-color:transparent;
+    margin-top: 25px;
+    line-height: 100px;
+    text-align: center;
+    font-size: 30px;
+   
+}
+#rodape{
+    height: 150px;
+    background-color: transparent;
+}
+.subMenu{
+    height: 60px;
+    line-height: 60px;
+    margin: 10px 0px;
+    text-align: center;
+    background-color:transparent;
+    font-size: 20px;
+    color: black;
+    transition: 1s;
+    border-radius: 20px;
+}
+.subMenu:hover{
+    background-color: gray;
+}
+
+#home{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100px;
+    width: 400px;
+    margin-left: 140px;
+    margin-top: 150px;
+ 
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+}
